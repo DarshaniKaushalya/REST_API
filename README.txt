@@ -1,4 +1,3 @@
-npm i express morgan nodemon ejs body-parser dotenv mongoose axios
+REST API =======>>>> Node.js, Express.js, EJS, MongoDB
 
-stucture the folders
 
