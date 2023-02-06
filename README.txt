@@ -1,3 +1,6 @@
-REST API =======>>>> Node.js, Express.js, EJS, MongoDB
+npm i express morgan nodemon ejs body-parser dotenv mongoose axios
+
+stucture the folders
+
 
 
